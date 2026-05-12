@@ -17,10 +17,8 @@ SlimePay is a multi-chain crypto-to-fiat payment platform that lets consumers an
 7. [Data Flow](#7-data-flow)
 8. [T9N SDK — Merchant Checkout](#8-t9n-sdk--merchant-checkout)
 9. [Database Schema](#9-database-schema)
-10. [External Integrations](#10-external-integrations)
-11. [Security & Compliance](#11-security--compliance)
-12. [Deployment](#12-deployment)
-13. [API Surface](#13-api-surface)
+10. [Security & Compliance](#11-security--compliance)
+11. [Merchant API Surface](#13-api-surface)
 
 ---
 
@@ -465,7 +463,7 @@ Verification is handled by Dojah via webhook callbacks. Suspicious transaction p
 - No wallet reuse across users or merchants — every account gets unique addresses per chain
 
 
-## 12. API Surface
+## 11. API Surface
 
 
 ### Merchant Portal
