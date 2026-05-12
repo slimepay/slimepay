@@ -50,11 +50,17 @@ SlimePay is a multi-chain crypto-to-fiat payment platform that lets consumers an
 └────────────────────────────────────────────────────────────────────────┘
 
 External services:
-  Moralis        │  Maplerad / SafeHaven (NGN settlement)
-  Blockstream             │  CoinGecko 
-  Dojah (KYC / AML)               │  Resend 
-  TronGrid (Tron fees)             │  Hedera Mirror Node
-  Divvi         │  Slack (ops alerts)
+  Maplerad / SafeHaven (NGN settlement)
+  Blockstream
+  CoinGecko 
+  Dojah (KYC / AML)
+  Authenticator
+  Resend 
+  TronGrid (Tron fees)
+  Moralis
+  Hedera Mirror Node
+  Divvi
+  Slack (ops alerts)
 ```
 
 ---
